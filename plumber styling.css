@@ -1,0 +1,24 @@
+.home{
+ /* background-image: url('register.jpg'); */
+}
+
+.style{
+  /* background-image: url('plumber.jpg'); */
+}
+
+.container{
+   margin: 50px;
+   shape-margin: circle;
+   border:20px solid black !important;
+ /*  background-image: url('plumber3.jpg'); */
+   font-family: 'Kaushan Script', cursive;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   
+    }
+
+.input{
+  border:1px solid black !important; 
+  border-radius: 20px;
+
+ }

@@ -1,0 +1,23 @@
+.style{
+  /* background-image: url('register.jpg'); */
+}
+
+.container{
+   margin: 50px;
+   shape-margin: circle;
+   border:10px solid black !important;
+  /* background-image: url(' painter3.jpg'); */
+   font-family: 'Kaushan Script', cursive;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   background-color: grey;
+   
+    }
+
+.input{
+  border:1px solid black !important; 
+  border-radius: 20px;
+
+ }
+
+ 

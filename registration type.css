@@ -1,0 +1,27 @@
+.register{
+/*	background-image: url('register.jpg'); */
+}
+
+.container{
+	align-content: center;
+	margin-top: 150px;
+    font-family: 'Kaushan Script', cursive; 
+    font-size: 100px;
+    border:10px solid black !important;
+   /* background-image: url('register background.jpg'); */
+   }
+
+.top-container{
+	margin-bottom: 100px;
+	font-size: 50px;
+	font-style: red;
+
+}
+
+.middle-container-btn{
+	border:10px solid black !important;
+	margin-bottom: 10px;
+	border-radius: 20px;
+	width: 300px;
+
+	}

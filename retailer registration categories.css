@@ -1,0 +1,22 @@
+
+.home{
+	background-image: url('retailer register categories.jpg');
+    margin: 100px;
+    border:20px solid #ee82ee !important;
+}
+ .heading{
+	font-family: 'Kaushan Script', cursive;
+	font-size: 70px;
+	margin-bottom: 50px;
+
+}
+
+.input{
+    border:10px solid black !important;
+	margin-bottom: 10px;
+	border-radius: 20px;
+	width: 500px;
+    width: 50%;
+    font-size: 40px;
+    height: 100px;
+}

@@ -1,0 +1,118 @@
+ .home{
+
+background-image: url('page2.jpg');
+  font-family: 'Kaushan Script', cursive; 
+
+ } 
+
+
+.navbar-brand{
+  font-family: Ubuntu;
+  font-weight: bold;
+} 
+
+.home-page{
+  margin-top: 50px;
+
+}
+
+.text-light{
+  font-family: Comic Sans MS, cursive;
+  font-size: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+ .text-danger{
+  margin-top: 100px;
+  background-size: 700px;
+  margin-bottom: 300px;
+  text-shadow: black;
+  font-style: serif;
+  font-weight: bold;
+  font-size: 120px;
+  font-family:'Kaushan Script' , cursive;
+}
+
+
+#button-carpenter{
+  width: 90%;
+  font-size: 40px;
+  height: 300px;
+ /* background-image: url('carpenter.jpg'); */ 
+  padding: 20px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  border-color:black ;
+  border-width: 10px;
+  font-family: 'Comic Sans MS', cursive;
+  margin-top: 120px;
+  
+ }
+
+
+#button-plumber{
+  width: 90%;
+  font-size: 40px;
+  height: 300px;
+ /* background-image: url('plumber.jpg'); */
+  margin-left: 50px;
+  margin-bottom: 50px;
+  border-color: black;
+  border-width: 10px;
+  font-family: 'Comic Sans MS', cursive;
+  }
+
+#button-painter{
+  width: 90%;
+  font-size: 40px;
+  height: 300px;
+ /* background-image: url('painter1.jpg');*/
+  margin-left: 50px;
+  margin-bottom: 100px;
+  border-color: black;
+  border-width: 10px;
+  font-family: 'Comic Sans MS', cursive;
+}
+/*
+.row{
+  background-color: black;
+  font-color: white;
+  border: 20px;
+  font-family: 'Kaushan Script', cursive;
+  margin: 20px;
+}*/
+
+
+#footer{
+  bottom: 0;
+  text-align: center;
+  font-size: 10px;
+  font-style: white;
+
+  
+}
+
+.h1{
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 100px;
+  margin-bottom: 30px;
+ }
+
+ .Why-Repconn{
+   font-size:40px;
+   font-family: 'Comic Sans MS', cursive;
+   margin-bottom: 100px;
+
+ }
+
+ .text-dark{
+  font-family: Comic Sans MS, cursive;
+  font-size: 40px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.text-success{
+  font-size: 70px;
+}
